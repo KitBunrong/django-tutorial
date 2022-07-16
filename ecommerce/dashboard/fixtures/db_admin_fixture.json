@@ -1,0 +1,14 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1, 
+        "fields": {
+            "username": "asdmin",
+            "password": "pbkdf2_sha256$320000$I4qaOSuCUYP2q1KVVITINz$UolTlprXfNt2GhDdz8O8z3yDlZsZGOiM88RBeUaA7ks=",
+            "email": "asdmin@gmail.com",
+            "is_superuser": true,
+            "is_staff": true, 
+            "is_active": true
+        }
+    }
+]
